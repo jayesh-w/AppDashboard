@@ -1,12 +1,17 @@
 TODO 
 
 1. Login
-	1.1 Create Login UI
+	1.1 Create Login UI -- DONE
 	1.2 Create User Models
 	1.3 Connect to Database
 
 2. Dashboard
 	2.1 Create Dashboard UI
+		2.1.0 SIDEBAR
+		2.1.1 INDEX
+		2.1.2 USERS
+		2.1.3 POST
+		2.1.4 MARKET PRICE
 	2.2 Add Graphs
 	2.3 Add Tables
 	2.4 Add API Keys Method
