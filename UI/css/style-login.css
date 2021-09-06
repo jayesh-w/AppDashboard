@@ -1,4 +1,41 @@
+:root {
+	--primary-color:#2DD0F3;
+	--secondary-color:#00FF85;
+	--white: #FFFFFF;
+	--off-white:#C4FFF1;
+	--system-black:#212121;
+	--shadow-default:0px 0px 5px 0px rgba(0,0,0,0.75);
+}
 body {
+	background-color: var(--primary-color);
+	padding:3rem;
 
-	
+}
+
+.main {
+	margin: 5rem;
+	background-color: white;
+	width: 25rem;
+	padding: 2rem;
+	border-radius: 5px;
+	padding-bottom: 3rem;
+	box-shadow: var(--shadow-default);
+}
+
+.login {
+	width:20rem;
+
+}
+
+.ip {
+	margin:2rem 0rem;
+}
+.form-button {
+	width: 100%;
+	padding:0.2rem;
+	font-size: 20px;
+	background-color: var(--secondary-color);
+	border:none;
+	border-radius: 5px;
+	color: var(--white);
 }
