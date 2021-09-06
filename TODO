@@ -1,0 +1,29 @@
+TODO 
+
+1. Login
+	1.1 Create Login UI
+	1.2 Create User Models
+	1.3 Connect to Database
+
+2. Dashboard
+	2.1 Create Dashboard UI
+	2.2 Add Graphs
+	2.3 Add Tables
+	2.4 Add API Keys Method
+	2.5 Add Other Sidebar Features
+
+3. Dashboard Pages
+	3.1 App Data [ Graph, Installations, Users]
+	3.2 User Data
+	3.3 Post Data
+	3.4 APIs
+		3.4.1 Market Price API Buildup
+		3.4.2 Crop Price Prediction API Buildup
+		3.4.3 API for Posts
+
+4. JWT Tokens
+	4.1 JWT Token for Login
+	4.2 JWT Token for Registration
+	4.3 JWT Token for Authorization
+
+5. Chat System
